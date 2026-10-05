@@ -3,7 +3,7 @@ x = 100
 y = 5
 
 # Calculate the total
-total = x + y
+total = x - y
 
 # Control flow (if/else)
 if total > 10:
